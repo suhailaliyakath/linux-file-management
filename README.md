@@ -59,9 +59,11 @@ Linux-Learning/Downloads/ — download practice directory.
 screenshots/ — screenshots documenting project work.
 
 ##Evidence
+
 Screenshots will demonstrate the directory structure, terminal commands, and final verification.
 
 ##Learning Outcome
+
 Practiced Linux file and directory management, command-line navigation, and basic documentation using a structured workspace.
 
 
